@@ -15,7 +15,7 @@ CoreGraphics Demo
     self.layer.maskedCorners = [.layerMinXMinYCorner]
   }
   
-  - you can also round corner two side
+ 2. You can also round corner two side
   
   func roundCornerTopLeftandTopRight(cornerRadius: CGFloat)
   {
